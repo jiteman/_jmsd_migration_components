@@ -1,0 +1,6 @@
+[submodule "cmof_original"]
+	path = cmof_original
+	url = https://github.com/jiteman/cmof_original.git
+[submodule "cmof_jmsd"]
+	path = cmof_jmsd
+	url = https://github.com/jiteman/cmof_jmsd.git
