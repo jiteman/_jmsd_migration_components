@@ -8,6 +8,8 @@ JMSD_SHOW_PROJECT_GROUP_HEADER()
 
 add_subdirectory( cmof_original )
 add_subdirectory( cmof_jmsd )
+add_subdirectory( catch2_original )
+#add_subdirectory( catch2_jmsd )
 
 
 JMSD_SHOW_PROJECT_GROUP_FOOTER()
