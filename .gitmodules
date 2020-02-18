@@ -4,3 +4,9 @@
 [submodule "cmof_jmsd"]
 	path = cmof_jmsd
 	url = https://github.com/jiteman/cmof_jmsd.git
+[submodule "catch2_original"]
+	path = catch2_original
+	url = https://github.com/jiteman/catch2_original.git
+[submodule "catch2_jmsd"]
+	path = catch2_jmsd
+	url = https://github.com/jiteman/catch2_jmsd.git
